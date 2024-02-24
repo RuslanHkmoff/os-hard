@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "kernel.h": "c",
+        "fs_context.h": "c"
+    }
+}
